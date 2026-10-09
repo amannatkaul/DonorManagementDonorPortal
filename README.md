@@ -2,13 +2,10 @@
 
 A donor-only frontend prototype built with React, TypeScript, Vite, React Router, Tailwind CSS, React Hook Form, Zod, Recharts, date-fns, and Lucide icons.
 
-## Development
+## How To Run
 
-```bash
-npm install
-npm run dev
-npm run build
-```
+ npm.cmd install
+ npm.cmd run dev
 
 In Figma Make, the development server is started and supervised automatically.
 
